@@ -1,2 +1,2 @@
 # KnowlesiFrag
-Code for paper on NHP/knowlesi/fragmentation by Johnson et al.
+Code for paper on non-human primates/knowlesi/fragmentation by Johnson et al.
